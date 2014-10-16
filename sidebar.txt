@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bkv:home|Door43 (bkv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bkv|d43-bkv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bkv/archive/master.zip|d43-bkv.zip]]
+
+**Recent Changes**
+{{changes>ns = bkv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bkv|Ethnologue data]]
+
